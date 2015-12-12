@@ -11,3 +11,6 @@ source: wikipedia
 location: Article "Lob's Theorem" [http://en.wikipedia.org/wiki/Lob%27s_theorem]
 core: 1
 
+source: Eliezer Yudkowsky
+location: "A Cartoon Guide to Lob's Theorem" [http://www.yudkowsky.net/rational/lobs-theorem]
+core: 1
